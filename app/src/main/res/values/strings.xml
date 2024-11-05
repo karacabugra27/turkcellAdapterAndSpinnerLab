@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">turkcellAdapterAndSpinnerLab</string>
+
+    <string-array name="ilList">
+        <item>Malatya</item>
+        <item>Kayseri</item>
+        <item>Elazig</item>
+    </string-array>
+</resources>
